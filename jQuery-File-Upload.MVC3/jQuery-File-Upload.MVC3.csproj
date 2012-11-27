@@ -90,21 +90,21 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\Bootstrap\bootstrap-image-gallery.min.css" />
-    <Content Include="Content\Bootstrap\bootstrap-image-gallery.min.js" />
+    <Content Include="Content\Bootstrap\bootstrap-image-gallery.css" />
+    <Content Include="Content\Bootstrap\bootstrap-image-gallery.js" />
     <Content Include="Content\Bootstrap\bootstrap-responsive.min.css" />
     <Content Include="Content\Bootstrap\bootstrap.min.css" />
     <Content Include="Content\Bootstrap\bootstrap.min.js" />
-    <Content Include="Content\FileUpload\canvas-to-blob.min.js" />
-    <Content Include="Content\FileUpload\jquery.fileupload-ip.js" />
+    <Content Include="Content\FileUpload\canvas-to-blob.js" />
+    <Content Include="Content\FileUpload\jquery.fileupload-fp.js" />
     <Content Include="Content\FileUpload\jquery.fileupload-ui.js" />
     <Content Include="Content\FileUpload\jquery.fileupload.js" />
     <Content Include="Content\FileUpload\jquery.iframe-transport.js" />
-    <Content Include="Content\FileUpload\load-image.min.js" />
+    <Content Include="Content\FileUpload\load-image.js" />
     <Content Include="Content\FileUpload\jquery.fileupload-ui.css" />
     <Content Include="Content\FileUpload\locale.js" />
     <Content Include="Content\FileUpload\main.js" />
-    <Content Include="Content\FileUpload\tmpl.min.js" />
+    <Content Include="Content\FileUpload\tmpl.js" />
     <Content Include="Content\img\generalFile.png" />
     <Content Include="Content\img\glyphicons-halflings-white.png" />
     <Content Include="Content\img\loading.gif" />
